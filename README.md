@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AngryHickory
 - 👀 I’m interested in computers, video games, music, guitar, and many other things.  
-- 🌱 I’m currently learning web development through the Odin Project
+- 🌱 I’m currently learning web development through the Odin Project.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: email.
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: facts can be fun. 
 
 <!---
